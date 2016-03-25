@@ -86,8 +86,8 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email'
-    content:  'Qué te gustaría decir?'
+    email:    'ra_grunge@yahoo.es'
+    content:  '¿Qué te gustaría decir?'
     subject:  'New submission!'
     submit:   'Enviar'
     ajax:

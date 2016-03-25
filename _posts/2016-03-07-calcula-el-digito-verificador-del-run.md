@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Calcula el dígito verificador del RUN
-date:       2014-06-08 12:14:29
+date:       2016-03-07 12:14:29
 summary:
 categories: rut
 ---
@@ -65,5 +65,5 @@ A este número le aplicamos “módulo 11”, es decir, lo que resta al dividirl
 <p>Aplicando el mismo método, se puede averiguar el dígito verificador de la placa patente de nuestros vehículos, ya sea la nueva o la antigua PPU. <a href="http://www.srcei.cl/Manuales/ValidacionPatentes.pdf">Aquí hay un detalle</a> con el valor asignado a cada letra de la patente.</p>
 
 <p>
-	<a href="http://www.biobiochile.cl/2016/03/07/para-que-sirve-y-como-se-calcula-el-digito-verificador-de-nuestro-rut.shtml">Fuente</a>
+	<a href="http://www.biobiochile.cl/2016/03/07/para-que-sirve-y-como-se-calcula-el-digito-verificador-de-nuestro-rut.shtml" target="_blank">Fuente</a>
 </p>
