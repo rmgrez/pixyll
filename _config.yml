@@ -28,7 +28,7 @@ enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: yalistochao
+disqus_shortname: blogrm2016
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -86,7 +86,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'ra_grunge@yahoo.es'
+    email:    'Tu email'
     content:  '¿Qué te gustaría decir?'
     subject:  'New submission!'
     submit:   'Enviar'
