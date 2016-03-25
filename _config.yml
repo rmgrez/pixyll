@@ -95,7 +95,7 @@ text:
       sent:     'Mensaje enviado!'
       error:    'Error!'
   thanks: 'Gracias por contactarnos. Responderemos tan pronto como sea posible.'
-  og_locale: 'en_US'
+  og_locale: 'en_CL'
 
 # Build settings
 markdown:     kramdown
