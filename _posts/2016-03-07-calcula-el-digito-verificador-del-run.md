@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Calcula el dígito verificador del RUN
-date:       2016-03-07 12:14:29
+date:       2016-03-07 12:34:00
 summary:
 categories: rut
 ---

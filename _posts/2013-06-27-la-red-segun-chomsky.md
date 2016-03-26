@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      La red según Chomsky
-date:       2013-06-27 12:14:29
+date:       2013-06-27 15:14:29
 summary:
 categories: sociedad
 ---

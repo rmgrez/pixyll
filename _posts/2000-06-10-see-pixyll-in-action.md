@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Pixyll in Action
-date:       2000-06-10 12:31:19
+date:       2000-06-10 09:31:19
 summary:    
 categories: jekyll pixyll
 ---

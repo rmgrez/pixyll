@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Un punto azul pálido
-date:       2011-01-01 12:14:29
+date:       2011-01-01 19:14:29
 summary:
 categories: ciencia
 ---
