@@ -6,7 +6,7 @@ summary:
 categories: espacio
 ---
 
-<p>Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacionada que han calado profundamente en nuestra sociedad debido a películas, libros y series de televisión. Pero no todos son ciertos; de hecho algunos de los más espectaculares resultan ser auténticas tonterías que poco o nada se parecen a la realidad.</p>
+Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacionada que han calado profundamente en nuestra sociedad debido a películas, libros y series de televisión. Pero no todos son ciertos; de hecho algunos de los más espectaculares resultan ser auténticas tonterías que poco o nada se parecen a la realidad.
 
 <p>En Geekiez han publicado una excelente recopilación bajo el título Diez mitos sobre el espacio que deberíamos dejar de creer; el resumen rápido en nuestro idioma sería este:</p>
 

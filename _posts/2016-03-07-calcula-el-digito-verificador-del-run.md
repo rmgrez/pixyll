@@ -6,7 +6,7 @@ summary:
 categories: rut
 ---
 
-<p>¿Han visto o han sido partícipes alguna vez del “Juego del Teléfono”? Como muchos ya saben (más que un juego, pareciera ser un experimento), este consiste en reunir a un grupo de personas, en la que uno le transmite un mensaje al oído del más cercano y éste último le pasa el mismo mensaje al siguiente participante, y así se repite el proceso hasta llegar al último individuo.</p>
+¿Han visto o han sido partícipes alguna vez del “Juego del Teléfono”? Como muchos ya saben (más que un juego, pareciera ser un experimento), este consiste en reunir a un grupo de personas, en la que uno le transmite un mensaje al oído del más cercano y éste último le pasa el mismo mensaje al siguiente participante, y así se repite el proceso hasta llegar al último individuo.
 
 <p>Finalmente, si el último participante dice en voz alta el mensaje, todos se darán cuenta que es muy distinto al mensaje original.</p>
 

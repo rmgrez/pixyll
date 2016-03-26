@@ -6,7 +6,7 @@ summary:
 categories: sociedad
 ---
 
-<p>Noam Chomsky, uno de los intelectuales activistas más respetados e influyentes del mundo, plantea su preocupación hacia el mundo que internet ha ido creando para la sociedad. Entre los lentes de Google, la vigilancia del gobierno de Estados Unidos y el sistema de educación moderno, dice, hay más de un link. </p>
+Noam Chomsky, uno de los intelectuales activistas más respetados e influyentes del mundo, plantea su preocupación hacia el mundo que internet ha ido creando para la sociedad. Entre los lentes de Google, la vigilancia del gobierno de Estados Unidos y el sistema de educación moderno, dice, hay más de un link.
 
 <p>Noam Chomsky camina pausadamente a través del MIT con siete piezas de sushi con palta en una bandeja de cartón y un sobre con palitos. Tiene 84 años. Es doctor en Lingüística de la Universidad de Pensilvania y profesor en el Instituto de Tecnología de Massachusetts (MIT) desde 1955. Es reconocido como uno de los fundadores de la lingüística moderna, un intelectual y, más que un crítico, más bien un activista. Su influencia intelectual se aquilata en la permanente cita a su trabajo en la década de los 80, cuando fue el intelectual vivo más citado por sus pares.</p>
 
