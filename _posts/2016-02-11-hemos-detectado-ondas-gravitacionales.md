@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hemos detectado ondas gravitacionales"
+title:      “Hemos detectado ondas gravitacionales”
 date:       2016-02-11 06:32:00
 summary:
 categories: ciencia
