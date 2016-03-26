@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Diez mitos sobre el espacio
-date:       2011-10-05 12:14:29
+date:       2014-09-06 12:14:29
 summary:
 categories: espacio
 ---
