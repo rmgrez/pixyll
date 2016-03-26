@@ -6,6 +6,8 @@ summary:
 categories: 
 ---
 
+Fue la figura que inspiró a Robert Downey Jr. para interpretar en el cine al magnate e inventor Tony Stark, creador del superhéroe Iron Man. Hoy, el millonario sudafricano es comparado con el fallecido fundador de Apple por ser dueño de un imperio industrial que impulsa nuevas tecnologías para la exploración espacial, el desarrollo de autos eléctricos y sistemas de transporte ultraveloces. ¿Su objetivo? Salvar a la humanidad de su propia destrucción.
+
 A comienzos de 2007 y pocos meses antes de empezar a rodar el primer filme de Iron Man, el director Jon Favreau arrendó en Los Angeles varios hangares que habían pertenecido a Howard Hughes, uno de los magnates estadounidenses más famosos del siglo XX y un destacado aviador, ingeniero aeroespacial, inventor, cineasta y filántropo. Favreau quería usar el lugar como centro de producción para el filme y también pretendía lograr que Robert Downey Jr. se inspirara en Hughes para interpretar a Tony Stark, el millonario e inventivo ingeniero creador del súperhéroe Iron Man. Pero el actor se deprimió al ver el mal estado en que estaban las instalaciones donde el fallecido Hughes había concebido sus ideas.
 
 Downey Jr. pronto halló la solución a su baja de ánimo: al llegar a Los Angeles había escuchado sobre un personaje llamado Elon Musk, un ingeniero y magnate sudafricano que había construido su propio complejo industrial al estilo Stark y a sólo unos cuantos kilómetros de los hangares arrendados por Favreau. El artista pensó que en lugar de imaginarse cómo era la rutina diaria de Hughes tal vez podría experimentarla personalmente. Así que en marzo de 2007 visitó los cuarteles de SpaceX, compañía fundada en 2002 por Musk y que se dedica a construir y lanzar avanzados cohetes que, entre otras labores, llevan provisiones a la Estación Espacial Internacional. Downey Jr. recibió un tour personal del empresario y su asombro fue mayor: “Usualmente mi mente no se impresiona de manera tan fácil, pero ese lugar y ese tipo eran impresionantes”, señala el actor en la biografía Elon Musk: Tesla, SpaceX y la búsqueda de un futuro fantástico, publicada por el cronista Ashlee Vance en 2015.
@@ -24,7 +26,7 @@ Todas estas iniciativas le han proporcionado tal fama a Musk que el empresario y
 
 Jim Cantrell, consultor aeroespacial y primer vicepresidente de SpaceX cuando la empresa empezó a operar en 2002, afirma desde Estados Unidos que Musk no sólo es un emprendedor, sino que también un visionario: “Pero aún más importante que eso es que es un hacedor de cosas que se dedica mucho más a actuar que a hablar. Eso es lo que me atrajo inicialmente y lo que él también vio en mí. Nos enfocamos en construir cosas y conseguir que se hagan. La gran diferencia entre él y yo es que Elon tiene un impulso mayor al de cualquier persona que haya conocido. También es incapaz de considerar el fracaso como resultado de sus empresas y está dispuesto a apostarlo todo para conseguir algo. Einstein dijo alguna vez que la brillantez era 10 por ciento inspiración y 90 por ciento transpiración. Elon es un ejemplo viviente de eso”.
 
-De Sudáfrica a Marte
+### De Sudáfrica a Marte
 
 La historia de Musk parte en Sudáfrica y en pleno apartheid. Su madre, Maye, es canadiense y a comienzos de los setenta era una experta en dietas, mientras que su padre, Errol, es un ingeniero sudafricano. Elon es el mayor de tres hermanos y desde temprano mostró una fascinación por libros de ciencia ficción como los de la saga Fundación, de Isaac Asimov. La historia de un imperio intergaláctico que colapsa  ayudó a alimentar la obsesión de Musk por salvar a la humanidad con proyectos como la instalación de colonias en Marte.
 
@@ -42,7 +44,7 @@ Musk se vio obligado a invertir prácticamente toda, su fortuna en un cuarto int
 
 Zubrin aún recuerda una cena de recaudación de fondos organizada en 2001 por el grupo y en la que cada plato costaba 500 dólares. Repentinamente, Musk, a quien nadie había invitado, hizo un cheque por cinco mil dólares. “Había leído mi libro El caso de Marte y se convenció de que la exploración del planeta rojo sería uno de los pasos más decisivos para la humanidad. Él quiere ser quien concrete esa idea”, explica Zubrin. Para el ingeniero, la principal diferencia entre Musk y otra figura clave de la innovación como Jobs es que el fundador de Apple “sólo quería divertirse y ganar dinero. Elon quiere hacer historia”. Ese propósito podría dar otro paso clave en septiembre durante la Conferencia Internacional Aeronáutica, cuando Musk presente su Transportador Colonial para Marte, un vehículo diseñado para llevar tripulaciones al planeta rojo.
 
-Las otras apuestas de Musk
+### Las otras apuestas de Musk
 
 La vida personal del magnate también ha tenido altos y bajos. Musk conoció a su primera esposa, Justine, mientras ambos estudiaban en la Universidad de Queen en Canadá. Se casaron en 2000 y, quizás debido a lo mal que lo pasó en la niñez, Musk no fue la persona más demostrativa del mundo: “La gente siempre se ha referido a él como alguien robótico. Mi mejor amiga en la universidad siempre decía que él no sabía abrazar. Ella intentaba abrazarlo y él sólo se quedaba parado sin saber qué hacer. Desde entonces, ha aprendido a hacerlo mejor”, dijo Justine a la revista Vogue. 
 
@@ -59,3 +61,7 @@ Por si fuera poco, Musk también es copresidente de OpenAI, una organización si
 Si se le pregunta a Roger Zubrin cuál será el próximo gran objetivo de Musk, la respuesta es la energía solar. El empresario es el fundador de SolarCity, fabricante de productos como Powerwall, una batería de ion litio que cuesta alrededor de 3 mil dólares y que usa energía solar para almacenar electricidad de consumo hogareño. A fines de 2015, Australia fue uno de los primeros países en recibir las baterías: “El producto no es el único en el mercado, pero es el equivalente a la marca Apple en la industria del almacenamiento de energía. Tiene el sex appeal que otras no poseen”, explica Anthony Vassallo, experto en energías sustentables de la Universidad de Sydney.
 
 Pero más allá de estas empresas, los ojos del empresario claramente están en Marte. Zubrin afirma que Musk anhela volverse el “Edison de los cohetes” y el propio magnate se encargó de explicar a Vogue el legado que quiere dejarles a sus hijos y al mundo. “Espero que cuando hayan crecido estemos en el proceso de volvernos una civilización multiplanetaria… confío en que tendremos una pequeña base en Marte… Ir a ese planeta nos tomaría hoy unos seis meses. Con nuestra tecnología podemos acortar ese viaje a tres meses”.
+
+<a href="http://www.latercera.com/noticia/tendencias/2016/02/659-668105-9-elon-musk-el-nuevo-steve-jobs.shtml">Fuente</a>
+
+ 
