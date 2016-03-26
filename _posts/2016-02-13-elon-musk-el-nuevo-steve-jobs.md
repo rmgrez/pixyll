@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Un punto azul pálido
+title:      Elon Musk: El nuevo Steve Jobs
 date:       2016-02-13 09:12:00
 summary:
 categories: musk
@@ -26,7 +26,7 @@ Fue la figura que inspiró a Robert Downey Jr. para interpretar en el cine al ma
 
 <p>Jim Cantrell, consultor aeroespacial y primer vicepresidente de SpaceX cuando la empresa empezó a operar en 2002, afirma desde Estados Unidos que Musk no sólo es un emprendedor, sino que también un visionario: “Pero aún más importante que eso es que es un hacedor de cosas que se dedica mucho más a actuar que a hablar. Eso es lo que me atrajo inicialmente y lo que él también vio en mí. Nos enfocamos en construir cosas y conseguir que se hagan. La gran diferencia entre él y yo es que Elon tiene un impulso mayor al de cualquier persona que haya conocido. También es incapaz de considerar el fracaso como resultado de sus empresas y está dispuesto a apostarlo todo para conseguir algo. Einstein dijo alguna vez que la brillantez era 10 por ciento inspiración y 90 por ciento transpiración. Elon es un ejemplo viviente de eso”.</p>
 
-<h3>De Sudáfrica a Marte</h3>
+### De Sudáfrica a Marte
 
 <p>La historia de Musk parte en Sudáfrica y en pleno apartheid. Su madre, Maye, es canadiense y a comienzos de los setenta era una experta en dietas, mientras que su padre, Errol, es un ingeniero sudafricano. Elon es el mayor de tres hermanos y desde temprano mostró una fascinación por libros de ciencia ficción como los de la saga Fundación, de Isaac Asimov. La historia de un imperio intergaláctico que colapsa  ayudó a alimentar la obsesión de Musk por salvar a la humanidad con proyectos como la instalación de colonias en Marte.</p>
 
@@ -44,7 +44,7 @@ Fue la figura que inspiró a Robert Downey Jr. para interpretar en el cine al ma
 
 <p>Zubrin aún recuerda una cena de recaudación de fondos organizada en 2001 por el grupo y en la que cada plato costaba 500 dólares. Repentinamente, Musk, a quien nadie había invitado, hizo un cheque por cinco mil dólares. “Había leído mi libro El caso de Marte y se convenció de que la exploración del planeta rojo sería uno de los pasos más decisivos para la humanidad. Él quiere ser quien concrete esa idea”, explica Zubrin. Para el ingeniero, la principal diferencia entre Musk y otra figura clave de la innovación como Jobs es que el fundador de Apple “sólo quería divertirse y ganar dinero. Elon quiere hacer historia”. Ese propósito podría dar otro paso clave en septiembre durante la Conferencia Internacional Aeronáutica, cuando Musk presente su Transportador Colonial para Marte, un vehículo diseñado para llevar tripulaciones al planeta rojo.</p>
 
-<h3>Las otras apuestas de Musk</h3>
+### Las otras apuestas de Musk
 
 <p>La vida personal del magnate también ha tenido altos y bajos. Musk conoció a su primera esposa, Justine, mientras ambos estudiaban en la Universidad de Queen en Canadá. Se casaron en 2000 y, quizás debido a lo mal que lo pasó en la niñez, Musk no fue la persona más demostrativa del mundo: “La gente siempre se ha referido a él como alguien robótico. Mi mejor amiga en la universidad siempre decía que él no sabía abrazar. Ella intentaba abrazarlo y él sólo se quedaba parado sin saber qué hacer. Desde entonces, ha aprendido a hacerlo mejor”, dijo Justine a la revista Vogue. </p>
 
