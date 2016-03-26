@@ -1,28 +1,28 @@
 ---
 layout:     post
 title:      Calcula el dígito verificador del RUN
-date:       2016-03-07 12:34:00
+date:       2016-03-07 05:34:00
 summary:
 categories: rut
 ---
 
 ¿Han visto o han sido partícipes alguna vez del “Juego del Teléfono”? Como muchos ya saben (más que un juego, pareciera ser un experimento), este consiste en reunir a un grupo de personas, en la que uno le transmite un mensaje al oído del más cercano y éste último le pasa el mismo mensaje al siguiente participante, y así se repite el proceso hasta llegar al último individuo.
 
-<p>Finalmente, si el último participante dice en voz alta el mensaje, todos se darán cuenta que es muy distinto al mensaje original.</p>
+Finalmente, si el último participante dice en voz alta el mensaje, todos se darán cuenta que es muy distinto al mensaje original.
 
-<p>Si lo aplicamos a la informática, <strong>¿qué pasaría si ocurre esto con la información? ¿Qué pasaría si al enviar una imagen a otra persona, ésta llega distinta? ¿Qué pasaría si cuando me depositan los 15 millones de sueldo a mi Cuenta Rut, el sistema se equivoca y en realidad me llegan 15 mil pesos?</strong></p>
+Si lo aplicamos a la informática, <strong>¿qué pasaría si ocurre esto con la información? ¿Qué pasaría si al enviar una imagen a otra persona, ésta llega distinta? ¿Qué pasaría si cuando me depositan los 15 millones de sueldo a mi Cuenta Rut, el sistema se equivoca y en realidad me llegan 15 mil pesos?</strong>
 
-<p>La comunicación entre varios computadores genera un movimiento enorme de datos, y en cualquier momento estos datos podrían corromperse y cambiar un 0 a un 1 y desatar la 3ª Guerra Mundial. Esta corrupción de datos puede deberse a interferencia, ruido o corte de comunicación, etc.</p>
+La comunicación entre varios computadores genera un movimiento enorme de datos, y en cualquier momento estos datos podrían corromperse y cambiar un 0 a un 1 y desatar la 3ª Guerra Mundial. Esta corrupción de datos puede deberse a interferencia, ruido o corte de comunicación, etc.
 
-<p>Es por esto que se han ideado múltiples métodos de detección y corrección de errores, pero hoy, nos centraremos en uno muy simple y que lo ocupamos día a día.</p>
+Es por esto que se han ideado múltiples métodos de detección y corrección de errores, pero hoy, nos centraremos en uno muy simple y que lo ocupamos día a día.
 
-<h3>El Dígito Verificador o Código de Control</h3>
+### El Dígito Verificador o Código de Control
 
-<p>Este dígito utilizado para errores de información, errores de tipeo o para mayor seguridad. Podemos encontrarlo en códigos de barras, tarjetas de crédito, códigos bancarios, códigos de identificación personal (como es el RUN) e inclusive la Placa Patente Única de automóviles (PPU). En el caso del RUT y PPU el digito verificador, además de lo mencionado anteriormente, se utiliza para evitar fraudes y engaños de suplantación de identidad.</p>
+Este dígito utilizado para errores de información, errores de tipeo o para mayor seguridad. Podemos encontrarlo en códigos de barras, tarjetas de crédito, códigos bancarios, códigos de identificación personal (como es el RUN) e inclusive la Placa Patente Única de automóviles (PPU). En el caso del RUT y PPU el digito verificador, además de lo mencionado anteriormente, se utiliza para evitar fraudes y engaños de suplantación de identidad.
 
-<h3>Rol Único Tributario</h3>
+### Rol Único Tributario
 
-<p>Cada persona inscrita en el Registro Civil tiene su propio RUN, número único e irrepetible que nos sirve como un método de identificación. Este consta de un número de 8 dígitos + un digito verificador que puede ir de 0 a 9 o una K.</p>
+Cada persona inscrita en el Registro Civil tiene su propio RUN, número único e irrepetible que nos sirve como un método de identificación. Este consta de un número de 8 dígitos + un digito verificador que puede ir de 0 a 9 o una K.
 
 <p><strong>¿Qué brujería ocupan las intranet de universidades o páginas bancarias que me dicen cuando mi número RUT es incorrecto?</strong></p>
 
