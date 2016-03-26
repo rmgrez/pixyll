@@ -6,7 +6,9 @@ summary:
 categories: chile
 ---
 
-La impronta de dos astrónomos chilenos tiene el Nóbel de Física recién otorgado a tres científicos que descubrieron la acelerada expansión del Universo. La propia Academia Sueca le atribuye gran parte de ese hallazgo clave para entender hacia dónde vamos al trabajo de Mario Hamuy y José Maza, quienes desarrollaron en Chile métodos para medir las distancias en el cosmos. En esta entrevista (hecha en 2010), Hamuy habla de la explosión de las estrellas y la fuerza natural que condiciona nuestra existencia, la “energía oscura”, y dispara sobre la calidad de la educación en Chile: “Nos tienen convenientemente bien idiotizados”.
+La impronta de dos astrónomos chilenos tiene el Nóbel de Física recién otorgado a tres científicos que descubrieron la acelerada expansión del Universo. La propia Academia Sueca le atribuye gran parte de ese hallazgo clave para entender hacia dónde vamos al trabajo de Mario Hamuy y José Maza, quienes desarrollaron en Chile métodos para medir las distancias en el cosmos. 
+
+En esta entrevista (hecha en 2010), Hamuy habla de la explosión de las estrellas y la fuerza natural que condiciona nuestra existencia, la “energía oscura”, y dispara sobre la calidad de la educación en Chile: “Nos tienen convenientemente bien idiotizados”.
 
 <p>Hace casi un año (2009) el astrónomo Mario Hamuy y su colega José Maza, publicaron un libro fascinante: Supernovas. Allí, con tono didáctico y directo explican lo último que se sabe sobre el Universo, entre otras cosas, que se expande en forma acelerada y que esto podría deberse a la existencia de una “energía oscura” que no se puede explicar con la física actual.</p>
 
