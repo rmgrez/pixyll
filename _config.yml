@@ -19,7 +19,7 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    true
+show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
@@ -52,10 +52,10 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -70,8 +70,8 @@ text:
     older: 'Siguiente'
   share_buttons:
     text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
+    facebook:     'Compartir en Facebook'
+    twitter:      'Compartir en Twitter'
     googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
     digg:         'Share on Digg'
