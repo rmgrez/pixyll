@@ -10,8 +10,8 @@ Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacio
 
 <p>En Geekiez han publicado una excelente recopilación bajo el título <a href="http://geekiez.com/10-space-myths-we-need-to-stop-believing/" target="_blank">Diez mitos sobre el espacio que deberíamos dejar de creer</a>; el resumen rápido en nuestro idioma sería este:</p>
 <style>
-	li.menu-item {
-   margin:0 0 20px 0;   
+	li{
+   margin: 1em 0; 
 }
 </style>
 <ul>
