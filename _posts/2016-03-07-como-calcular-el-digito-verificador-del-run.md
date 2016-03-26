@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Calcula el dígito verificador del RUN
+title:      Cómo calcular el dígito verificador del RUN
 date:       2016-03-07 05:34:00
 summary:
 categories: rut

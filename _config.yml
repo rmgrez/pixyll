@@ -19,7 +19,7 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    false
+show_post_footers:    true
 show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
@@ -84,7 +84,7 @@ text:
     minute_read:    'min de lectura'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Pronto...'
   contact:
     email:    'Tu email'
     content:  '¿Qué te gustaría decir?'
