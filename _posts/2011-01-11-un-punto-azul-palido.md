@@ -20,4 +20,4 @@ categories: ciencia
 </p>
 <p>
 	Un punto azul pálido (Pale Blue Dot). Puede observarse la Tierra como un punto de luz entre blanco y azulado situado en la franja marrón de más a la derecha de la imagen. La fotografía fue tomada a una distancia de 6000 millones de kilómetros de la Tierra por la Voyager 1 en 1990.
-</p>
+</p><br>
