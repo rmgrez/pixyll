@@ -8,9 +8,13 @@ categories: espacio
 
 Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacionada que han calado profundamente en nuestra sociedad debido a películas, libros y series de televisión. Pero no todos son ciertos; de hecho algunos de los más espectaculares resultan ser auténticas tonterías que poco o nada se parecen a la realidad.
 
-<p>En Geekiez han publicado una excelente recopilación bajo el título Diez mitos sobre el espacio que deberíamos dejar de creer; el resumen rápido en nuestro idioma sería este:</p>
-
-<ul>
+<p>En Geekiez han publicado una excelente recopilación bajo el título <a href="http://geekiez.com/10-space-myths-we-need-to-stop-believing/" target="_blank">Diez mitos sobre el espacio que deberíamos dejar de creer</a>; el resumen rápido en nuestro idioma sería este:</p>
+<style>
+	li.menu-item {
+   margin:0 0 10px 0;   
+}
+</style>
+<ol>
 	<li><strong>La gente explota en el espacio exterior.</strong> Error: se pueden sobrevivir unos 30 segundos: es una muerte nada placentera y para colmo menos espectacular. La película en la que se trata este caso correctamente es 2001: una odisea del espacio.</li>
 	<li><strong>Venus y la Tierra son idénticos.</strong> Para nada; Venus es inhabitable y calurosamente inhóspito. Quizá en el pasado fuera parecido y degenerara debido al efecto invernadero, pero nadie lo sabe con certeza. La idea procede de cuando todavía no se había explorado su atmósfera.</li>
 	<li><strong>El Sol es una bola de fuego.</strong> En realidad es una reacción nuclear y en su interior no se «quema» nada.</li>
@@ -21,7 +25,7 @@ Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacio
 	<li><strong>Es difícil atravesar un cinturón de asteroides con una nave espacial.</strong> En realidad es muy fácil porque los asteroides son muy pequeños y están increíblemente lejos unos de otros. Así que no hace falta ser un gran piloto para lograrlo.</li>
 	<li><strong>Se puede ver la Gran Muralla desde el espacio.</strong> Definitivamente tampoco. De hecho, es más fácil –depende de la lejanía– ver los mares de plástico de Almería.</li>
 	<li><strong>La NASA acapara el 25 por ciento del presupuesto anual estadounidense.</strong> ¡Qué más quisieran! En realidad tan solo tienen asignado un mísero 0,5 por ciento.</li>
-</ul><br>
+</ol>
 
 <a href="http://www.microsiervos.com/archivo/ciencia/10-mitos-sobre-el-espacio.html" target="_blank">Fuente</a>
 
