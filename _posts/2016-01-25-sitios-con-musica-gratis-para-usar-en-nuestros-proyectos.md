@@ -22,6 +22,6 @@ Aquí os dejamos con una lista de páginas donde es posible encontrar este tipo 
 
 – <a href="https://www.youtube.com/audiolibrary/music" target="_blank">Colección de youtube</a>: Como ya sabéis, youtube tiene su propia colección de archivos gratuitos de audio.
 
-Como veis, opciones no faltan, por lo que nada de cortar música protegida por derechos de autor, no es necesario en absoluto.
+Como ves, opciones no faltan, por lo que nada de cortar música protegida por derechos de autor, no es necesario en absoluto.
 
 <a href="http://wwwhatsnew.com/2016/01/25/sitios-con-musica-gratis-para-usar-en-nuestros-proyectos/">source</a>
