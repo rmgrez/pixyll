@@ -62,6 +62,6 @@ Si se le pregunta a Roger Zubrin cuál será el próximo gran objetivo de Musk, 
 
 Pero más allá de estas empresas, los ojos del empresario claramente están en Marte. Zubrin afirma que Musk anhela volverse el “Edison de los cohetes” y el propio magnate se encargó de explicar a Vogue el legado que quiere dejarles a sus hijos y al mundo. “Espero que cuando hayan crecido estemos en el proceso de volvernos una civilización multiplanetaria… confío en que tendremos una pequeña base en Marte… Ir a ese planeta nos tomaría hoy unos seis meses. Con nuestra tecnología podemos acortar ese viaje a tres meses”.
 
-<a href="http://www.latercera.com/noticia/tendencias/2016/02/659-668105-9-elon-musk-el-nuevo-steve-jobs.shtml">Fuente</a>
+<a href="http://www.latercera.com/noticia/tendencias/2016/02/659-668105-9-elon-musk-el-nuevo-steve-jobs.shtml">source</a>
 
  

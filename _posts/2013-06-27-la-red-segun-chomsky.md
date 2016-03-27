@@ -54,5 +54,5 @@ Noam Chomsky, uno de los intelectuales activistas más respetados e influyentes 
 <p>Ése es el lado bueno: la gente está protestando. El movimiento chileno ha sido fantástico. En Quebec hubo un movimiento estudiantil que venció los intentos por aumentar el costo de las matrículas y que llamó a un proceso de reformas. Así que hay un montón de cosas que están pasando.</p>
 
 <p>
-	<a href="http://www.quepasa.cl/articulo/tecnologia/2013/06/23-12098-9-la-red-segun-chomsky.shtml/">Fuente</a>
+	<a href="http://www.quepasa.cl/articulo/tecnologia/2013/06/23-12098-9-la-red-segun-chomsky.shtml/">source</a>
 </p>

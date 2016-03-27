@@ -100,4 +100,4 @@ Por supuesto. La educación particular puede jugar un rol pero el aparato públi
 
 <p>*Publicada en el sitio web <a href="http://www.juegosdemate.blogspot.com/" target="_blank">Juegos de Mate</a> en marzo de 2010</p>
 
-<a href="http://ciperchile.cl/2011/10/05/chileno-que-descubrio-la-expansion-del-universo-%E2%80%9Cnos-tienen-convenientemente-bien-idiotizados%E2%80%9D/" target="_blank">Fuente</a>
+<a href="http://ciperchile.cl/2011/10/05/chileno-que-descubrio-la-expansion-del-universo-%E2%80%9Cnos-tienen-convenientemente-bien-idiotizados%E2%80%9D/" target="_blank">source</a>

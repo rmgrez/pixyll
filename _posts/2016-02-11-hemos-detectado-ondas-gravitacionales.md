@@ -58,5 +58,5 @@ Esto es lo que es posible estudiar a partir de ahora.
 
 Para los expertos, este descubrimiento marca una fecha histórica en la que empieza una nueva era de la astronomía.<br>
 
-<a href="http://www.bbc.com/mundo/noticias/2016/02/160211_ciencia_ondas_gravitacionales_relatividad_einstein_gtg" target="_blank">Fuente</a>
+<a href="http://www.bbc.com/mundo/noticias/2016/02/160211_ciencia_ondas_gravitacionales_relatividad_einstein_gtg" target="_blank">source</a>
 
