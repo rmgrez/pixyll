@@ -16,7 +16,7 @@ To that end, Kerpen advises job-seekers to flip the script in interviews: Spend 
 
 ### Before the interview
 
-Practice gratitude.
+#### Practice gratitude.
 
 According to the psychological theory of <a href="http://www.scientificamerican.com/article/is-a-bad-mood-contagious/" target="_blank">emotional contagion</a>, good moods really do spread. So going into your job interview in an upbeat state of mind increases the chances that your prospective employer will respond to you enthusiastically.
 
