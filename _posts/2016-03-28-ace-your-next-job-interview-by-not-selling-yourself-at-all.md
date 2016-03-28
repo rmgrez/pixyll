@@ -14,9 +14,9 @@ The Art of People functions as a kind of manual for professional friendliness, o
 
 To that end, Kerpen advises job-seekers to flip the script in interviews: Spend less time obsessing about how you come across, and more time directing your energies outward. Here are some concrete tips to try out at your next big audition.
 
-###Before the interview
+### Before the interview
 
-<u>Practice gratitude.</u>
+Practice gratitude.
 
 According to the psychological theory of <a href="http://www.scientificamerican.com/article/is-a-bad-mood-contagious/" target="_blank">emotional contagion</a>, good moods really do spread. So going into your job interview in an upbeat state of mind increases the chances that your prospective employer will respond to you enthusiastically.
 
@@ -26,38 +26,38 @@ So on the morning of your interview, try jotting down a list of five or ten thin
 
 “Gratitude is really powerful,” Kerpen tells Quartz. “It’s an almost drug-like concept that will put you in a better state of mind, and that will help your chances of getting what you want.”
 
-<u>Do something nice for someone else.</u>
+Do something nice for someone else.
 
 Performing a small act of kindness on the day of your interview will also help put you in a good mood, according to Kerpen. This could involve anything from giving money to a homeless person to making pancakes for your kids to helping a stranger carry her stroller down a flight of stairs.
 
 Research shows such gestures make a big difference in our outlook. A 2015 <a href="http://cpx.sagepub.com/content/early/2015/12/10/2167702615611073.abstract" target="_blank">study</a> published in Clinical Psychological Science, for example, found that adults who performed minor kindnesses such as holding open a door or helping someone with homework experienced lower levels of stress.
 Offering help to others also keeps the job hunt in perspective, Kerpen says. “They remind us that in the grand scheme of things, the interview is not so important,” he tells Quartz. “That takes the pressure off.”
 
-<u>Wear a memorable accessory.</u>
+Wear a memorable accessory.
 
 Not everyone has to follow Kerpen’s lead and buy 29 pairs of orange sneakers. But he does recommend wearing a distinctive accessory to the interview that will set you apart from the other applicants. That could be anything from a colorful scarf to an unusual pair of eyeglasses. “It adds a nice touch to your personal brand,” he says. And if you happen to be up against a host of other applicants, wearing something unique could make it more likely that your interviewer will remember you later.
 
 ### First impressions
 
-<u>Always take the water.</u>
+Always take the water.
 
 People tend to form <a href="http://www.theguardian.com/world/2009/mar/08/human-brain-circuit-impressions" target="_blank">first impressions</a> quickly, drawing on a variety of factors—some of which, such as our <a href="http://www.psychologicalscience.org/index.php/publications/observer/2006/july-06/how-many-seconds-to-a-first-impression.html" target="_blank">faces</a> and <a href="" >voices</a>, are beyond a job applicant’s control. So it’s important to do what you can to make a good impression, no matter how small.
 One simple way to do this is to accept your interviewer’s offer of coffee or water before your meeting begins, according to Kerpen. “We often don’t want to put the other person out, so we say no thank you,” he says. “But when you have someone to your house and you ask for a drink of water and they say ‘No, I’m fine,’ that makes you feel uncomfortable and like you’re a bad host.”
 
 The same principle applies in an interview, he says. “It’s a way for you to put the other person at ease.” And while it’s unlikely that a job applicant has ever been rejected simply for rebuffing a beverage, Kerpen points out that “there’s no downside.” At a minimum, accepting the water will give you a prop: you can gather your thoughts during the interview while taking a long sip.
 
-<u>Say the magic word.</u>
+Say the magic word.
 
 Chances that are your first exchange with your interviewer will involve some variation of the question, “How are you?” Rather than opt for the usual response of “Good” or “Great,” Kerpen recommends going a step further with the word “Fantastic.”
 Why the ultra-enthusiastic response? “Everyone wants to be around someone who’s fantastic,” Kerpen tells Quartz. “No one wants to be around someone who just says ‘I’m okay’ or ‘I’m tired.’” And the answer is bound to get your interviewer’s attention.
 
-###During the interview
+### During the interview
 
-<u>Remember: it’s not about you.</u>
+Remember: it’s not about you.
 
 Your goal in the interview should be to identify your interviewers’ vision for the job opening and figure out what you can do to the company accomplish its goals, Kerpen says. “People think they’re going to job interviews to talk about themselves, and that’s valuable,” says Kerpen. ‘But if you can get the person talking and getting inspired about their own visions and dreams, they’re going to love you.”
 
-<u>Practice mirroring.</u>
+Practice mirroring.
 
 <a href="https://www.psychologytoday.com/blog/beyond-words/201209/mimicry-and-mirroring-can-be-good-or-bad" target="_blank">Mirroring</a> is a psychological phenomenon in which people mimic speech patterns, gestures and nonverbal behaviors of others. <a href="https://vhil.stanford.edu/mm/2005/bailenson-chameleons-ps.pdf" target="_blank">Research has shown</a> that people who use mirroring effectively tend to be seen in a positive, persuasive light.
 
@@ -65,7 +65,7 @@ The key, Kerpen says, is to do this naturally. For example, you might try pickin
 
 “That makes the other person feel like they’re being heard,” Kerpen says. And it’s particularly important in a job interview, when prospective managers are on the lookout for employees who have the ability to pay attention to (and remember) what they say.
 
-<u>Be transparent about your failures.</u>
+Be transparent about your failures.
 
 Kerpen admits that this is one of his more controversial recommendations. A lot of people head into job interviews feeling nervous that their employers will press them about a gap in their resume or a history of job-hopping. But Kerpen says that in his own hiring practices, he values people who are willing to discuss such matters straightforwardly.
 
@@ -75,11 +75,11 @@ While other interviewers may react differently, Kerpen says that transparency an
 
 ### After the interview
 
-<u>Offer heartfelt praise.</u>
+Offer heartfelt praise.
 
 Don’t underestimate the power of authentic praise at the end of an interview, Kerpen says. “Letting people know how much you appreciated their questions and their company makes them feel good,” he tells Quartz. In fact, research has shown that receiving praise <a href="http://articles.chicagotribune.com/2008-07-20/features/0807160381_1_researchers-brain-imaging-techniques-striatum" target="_blank">activates</a> the same area of the brain–the striatum–that lights up upon receiving cash. So be sure to tell your interviewer a few specific things that you enjoyed discussing as you wrap things up.
 
-<u>Write a thank-you note right away.</u>
+Write a thank-you note right away.
 
 Kerpen recommends bringing a blank card with you to the interview. When the interview is over, he says, you can just jot down your thanks in the lobby and leave the card with the receptionist.
 
