@@ -106,5 +106,5 @@ Pero el sol, que no tenía ahí fuerza ni calor alguno, le contestó:
 
 -Nada puedo contra las nieves eternas. Aunque para ellas la aurora es más diligente y más tardío el ocaso, mis rayos, como el granito que las sustenta, no las fundirán jamás.
 
-##### Baldomero Lillo
+#### Baldomero Lillo
 
