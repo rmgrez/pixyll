@@ -3,7 +3,7 @@ layout:     post
 title:      Un punto azul pálido
 date:       2010-01-01 08:39:00
 summary:
-categories: espacio
+categories: ciencia
 ---
 
 Desde este lejano punto de vista, la Tierra puede no parecer muy interesante. Pero para nosotros es diferente. Considera de nuevo ese punto. Eso es aquí. Eso es nuestra casa. Eso somos nosotros. 
@@ -14,7 +14,6 @@ Todas las personas que has amado, conocido, de las que alguna vez oíste hablar,
 
 <p>La Tierra es el único mundo conocido hasta ahora que alberga vida. No hay ningún otro lugar, al menos en el futuro próximo, al cual nuestra especie pudiera migrar. Visitar, sí. Colonizar, aún no. Nos guste o no, por el momento la Tierra es donde tenemos que quedarnos. Se ha dicho que la astronomía es una experiencia de humildad, y formadora del carácter. Tal vez no hay mejor demostración de la locura de la soberbia humana que esta distante imagen de nuestro minúsculo mundo. Para mí, subraya nuestra responsabilidad de tratarnos los unos a los otros más amable y compasivamente, y de preservar y querer ese punto azul pálido, el único hogar que siempre hemos conocido.</p>
 
-<p>Un punto azul pálido (Pale Blue Dot). Puede observarse la Tierra como un punto de luz entre blanco y azulado situado en la franja marrón de más a la derecha de la imagen. La fotografía fue tomada a una distancia de 6000 millones de kilómetros de la Tierra por la Voyager 1 en 1990. </p>
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png"></center>
 Un punto azul pálido (Pale Blue Dot). Puede observarse la Tierra como un punto de luz entre blanco y azulado situado en la franja marrón de más a la derecha de la imagen. La fotografía fue tomada a una distancia de 6000 millones de kilómetros de la Tierra por la Voyager 1 en 1990.

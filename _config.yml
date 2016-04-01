@@ -69,7 +69,7 @@ text:
     newer: 'Anterior'
     older: 'Siguiente'
   share_buttons:
-    text:         'Comparte!'
+    text:         ''
     facebook:     'Compartir en Facebook'
     twitter:      'Compartir en Twitter'
     googleplus:   'Share on Google+'
