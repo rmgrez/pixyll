@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Las nieves eternas 
+title:      Baldomero Lillo - Las nieves eternas 
 date:       2010-02-15 22:00:00
 summary:
 categories: literatura
@@ -105,6 +105,4 @@ Mas la angustiada y doliente prisionera, sin atender a la voz de la montaña, si
 Pero el sol, que no tenía ahí fuerza ni calor alguno, le contestó:
 
 -Nada puedo contra las nieves eternas. Aunque para ellas la aurora es más diligente y más tardío el ocaso, mis rayos, como el granito que las sustenta, no las fundirán jamás.
-
-#### Baldomero Lillo
 
