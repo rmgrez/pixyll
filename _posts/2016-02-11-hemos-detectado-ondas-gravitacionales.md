@@ -56,7 +56,5 @@ Esto es lo que es posible estudiar a partir de ahora.
 
 "Vamos a escuchar más sobre los objetos que ya conocemos y vamos a escuchar cosas que nunca nos hemos imaginado", dijo al respecto David Reitze.
 
-Para los expertos, este descubrimiento marca una fecha histórica en la que empieza una nueva era de la astronomía.<br>
-
-<a href="http://www.bbc.com/mundo/noticias/2016/02/160211_ciencia_ondas_gravitacionales_relatividad_einstein_gtg" target="_blank">source</a>
+Para los expertos, este descubrimiento marca una fecha histórica en la que empieza una nueva era de la astronomía. [vía <a href="http://www.bbc.com/mundo/noticias/2016/02/160211_ciencia_ondas_gravitacionales_relatividad_einstein_gtg" target="_blank">source</a>]<br>
 

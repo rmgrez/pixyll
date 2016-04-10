@@ -62,8 +62,7 @@ A este número le aplicamos “módulo 11”, es decir, lo que resta al dividirl
 
 <p>Así nuestro RUT vendría a ser: 12.678.579-8</p>
 
-<p>Aplicando el mismo método, se puede averiguar el dígito verificador de la placa patente de nuestros vehículos, ya sea la nueva o la antigua PPU. <a href="http://www.srcei.cl/Manuales/ValidacionPatentes.pdf" target="_blank">Aquí hay un detalle</a> con el valor asignado a cada letra de la patente.</p>
+<p>Aplicando el mismo método, se puede averiguar el dígito verificador de la placa patente de nuestros vehículos, ya sea la nueva o la antigua PPU. <a href="http://www.srcei.cl/Manuales/ValidacionPatentes.pdf" target="_blank">Aquí hay un detalle</a> con el valor asignado a cada letra de la patente. [vía <a href="http://www.biobiochile.cl/2016/03/07/para-que-sirve-y-como-se-calcula-el-digito-verificador-de-nuestro-rut.shtml" target="_blank">biobio</a>]</p>
 
-<p>
-	<a href="http://www.biobiochile.cl/2016/03/07/para-que-sirve-y-como-se-calcula-el-digito-verificador-de-nuestro-rut.shtml" target="_blank">source</a>
-</p>
+
+	

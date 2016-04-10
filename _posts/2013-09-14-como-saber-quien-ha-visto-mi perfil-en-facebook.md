@@ -32,4 +32,4 @@ También se puso muy de moda un supuesto 'truco' que permitía acceder a este ti
 
 Lo cierto, es que el lista de amigos que ofrece ese código <strong>no representa</strong> a los que han visitado tu perfil.
 
-<a href="http://www.20minutos.es/noticia/1917999/0/como-saber-quien-ve-mi-perfil/facebook/mitos/" target="_blank">source</a>
+[vía <a href="http://www.20minutos.es/noticia/1917999/0/como-saber-quien-ve-mi-perfil/facebook/mitos/" target="_blank">20m</a>]

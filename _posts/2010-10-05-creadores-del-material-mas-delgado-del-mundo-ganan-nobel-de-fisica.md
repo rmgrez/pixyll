@@ -8,7 +8,7 @@ categories: ciencia
 
 Andrey Geim y Konstantin Novoselov crearon el grafeno, que en el futuro podría reemplazar el silicio de los chips que se usa hoy.
 
-Los científicos rusos Andre Geim y Konstantin Novoselov fueron galardonados con el premio Nobel de física por la invención del <strong>grafeno</strong>, un material que podría reemplazar al silicio y revolucionar la fabricación de chips y transistores en el futuro, además de muchos otros ámbitos.
+Los científicos rusos Andre Geim y Konstantin Novoselov fueron galardonados con el premio Nobel de física por la invención del <strong>grafeno</strong>, un material que podría reemplazar al silicio y revolucionar la fabricación de chips y transistores en el futuro, además de muchos otros ámbitos. [<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2010/announcement.html" target="_blank">Link</a>]
 
 El grafeno es una capa de átomos de carbono unidos densamente en una red hexagonal, que es muy, muy plano (apenas 1 átomo de grosor).
 
@@ -24,8 +24,5 @@ Entre los trabajos de Geim destacan el descubrimiento de que aparentemente susta
 
 El sapo volador hizo que Geim ganara un premio IgNobel en el 2000. Con el Nobel real que recibió ahora, Geim es la primera persona que ha recibido ambos premios.
 
-Geim y Novoselov también trabajaron en conjunto creando una cinta adhesiva que imita las propiedades de los pies de las lagartijas, recreando los pelos microscópicos que tienen en sus patas.
+Geim y Novoselov también trabajaron en conjunto creando una cinta adhesiva que imita las propiedades de los pies de las lagartijas, recreando los pelos microscópicos que tienen en sus patas. [vía <a href="https://www.fayerwayer.com/2010/10/creadores-del-material-mas-delgado-del-mundo-ganan-nobel-de-fisica/" target="_blank">fw</a> ]
 
-<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2010/announcement.html" target="_blank">Link</a>
-
-<a href="https://www.fayerwayer.com/2010/10/creadores-del-material-mas-delgado-del-mundo-ganan-nobel-de-fisica/" target="_blank">source</a>

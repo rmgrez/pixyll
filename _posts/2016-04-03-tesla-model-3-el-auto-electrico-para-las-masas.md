@@ -32,6 +32,4 @@ Pero para hacer el Model 3 un producto realmente de consumo de masas, Tesla no s
 
 Musk prevé una capacidad de producción de 500.000 unidades al año, lo que será posible principalmente gracias a la gigantesca fábrica de baterías que ha instalado en el desierto de Nevada. 
 
-La fábrica, llamada Gigafactoría, que es la segunda mayor superficie industrial cubierta del mundo, solo por detrás de la factoría de Boeing en el estado de Washington, producirá cuando esté a pleno funcionamiento más baterías de litio-ion que todo el resto del mundo. 
-
-<a href="http://www.latercera.com/noticia/tendencias/2016/04/659-674978-9-tesla-model-3-conoce-las-novedades-del-primer-auto-electrico-para-masas.shtml" target="_blank">source</a>
+La fábrica, llamada Gigafactoría, que es la segunda mayor superficie industrial cubierta del mundo, solo por detrás de la factoría de Boeing en el estado de Washington, producirá cuando esté a pleno funcionamiento más baterías de litio-ion que todo el resto del mundo. [vía <a href="http://www.latercera.com/noticia/tendencias/2016/04/659-674978-9-tesla-model-3-conoce-las-novedades-del-primer-auto-electrico-para-masas.shtml" target="_blank">lt</a>]

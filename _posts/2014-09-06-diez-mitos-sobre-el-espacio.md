@@ -27,5 +27,5 @@ Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacio
 	<li><strong>La NASA acapara el 25 por ciento del presupuesto anual estadounidense.</strong> ¡Qué más quisieran! En realidad tan solo tienen asignado un mísero 0,5 por ciento.</li>
 </ul>
 
-<a href="http://www.microsiervos.com/archivo/ciencia/10-mitos-sobre-el-espacio.html" target="_blank">source</a>
+[vía <a href="http://www.microsiervos.com/archivo/ciencia/10-mitos-sobre-el-espacio.html" target="_blank">ms</a>]
 

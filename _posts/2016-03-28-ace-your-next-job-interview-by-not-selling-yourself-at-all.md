@@ -91,6 +91,6 @@ When the holidays roll around, you may find yourself stumped about what to give 
 
 “It’s thoughtful and memorable, and it lasts forever,” he says. But any unique, fairly inexpensive gift will do: A jar of honey branded with his company’s logo has also been one of his go-to gifts.
 
-“It also lasts potentially for years, so whenever the person uses it they’re reminded of thoughtfulness and sweetness,” he says. “So it’s not a huge investment, but it makes a big difference in building your relationship.”
+“It also lasts potentially for years, so whenever the person uses it they’re reminded of thoughtfulness and sweetness,” he says. “So it’s not a huge investment, but it makes a big difference in building your relationship.” [vía <a href="http://qz.com/647387/ace-your-next-job-interview-by-not-selling-yourself-at-all/" target="_blank">qz</a>]
 
-<a href="http://qz.com/647387/ace-your-next-job-interview-by-not-selling-yourself-at-all/" target="_blank">source</a>
+

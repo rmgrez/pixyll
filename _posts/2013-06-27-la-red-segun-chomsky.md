@@ -51,8 +51,7 @@ Noam Chomsky, uno de los intelectuales activistas más respetados e influyentes 
 <p>Primero que nada no son todos, hay mucha gente joven que se dedica seriamente a hacer algo por el mundo. Hay presiones en la tecnología, en la sociedad, en las instituciones, para tratar de controlar y dominar a la gente, y volverlos hacia un estilo de vida más superficial, para evitar que “molesten”. Y eso ha sido así por siglos. Cuando se fundó el sistema de educación moderno en Estados Unidos, la educación pública fue una contribución mayor a la sociedad americana. Pero echa una mirada a lo que estaban pensando. Pensaban que tenía que haber una especie de sistema dual con una educación para la élite, que les enseñaría a ser creativos e independientes, y una educación para las masas que dirigiría a los agricultores independientes  para operar como herramientas de producción. Hay una versión moderna de eso. Toma los programas de educación de Obama y Bush: educar para las pruebas, es la forma perfecta de convertir a la gente en robots. Tener que dar una prueba, estudiar, tener un buen resultado. Educar para las pruebas es esencialmente una técnica de adoctrinamiento y control.</p>
 
 <p><strong>Usted ha apoyado más de una vez al movimiento estudiantil chileno.</strong></p>
-<p>Ése es el lado bueno: la gente está protestando. El movimiento chileno ha sido fantástico. En Quebec hubo un movimiento estudiantil que venció los intentos por aumentar el costo de las matrículas y que llamó a un proceso de reformas. Así que hay un montón de cosas que están pasando.</p>
+<p>Ése es el lado bueno: la gente está protestando. El movimiento chileno ha sido fantástico. En Quebec hubo un movimiento estudiantil que venció los intentos por aumentar el costo de las matrículas y que llamó a un proceso de reformas. Así que hay un montón de cosas que están pasando. [vía <a href="http://www.quepasa.cl/articulo/tecnologia/2013/06/23-12098-9-la-red-segun-chomsky.shtml/" target="_blank">source</a>]</p>
 
-<p>
-	<a href="http://www.quepasa.cl/articulo/tecnologia/2013/06/23-12098-9-la-red-segun-chomsky.shtml/">source</a>
-</p>
+
+	
