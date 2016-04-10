@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Pixyll in Action
+title:      Tecnología de la mente, Silicon Valley y el boom de la meditación
 date:       2013-03-07 01:31:02
 summary:    
 categories: cienia
