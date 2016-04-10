@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      <<¿Cómo saber quién ha visto mi perfil en Facebook?>>, un truco falso y lleno de riesgos
+title:      ¿Cómo saber quién ha visto mi perfil en Facebook?, un truco falso y lleno de riesgos
 date:       2013-09-14 03:38:19
 summary:    
 categories: facebook
