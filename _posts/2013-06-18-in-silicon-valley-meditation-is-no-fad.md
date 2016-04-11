@@ -6,7 +6,9 @@ summary:
 categories: ciencia
 ---
 
-CHADE-MENG TAN IS PERCHED ON A CHAIR, his lanky body folded into a half-lotus position. “Close your eyes,” he says. His voice is a hypnotic baritone, slow and rhythmic, seductive and gentle. “Allow your attention to rest on your breath: The in-breath, the out-breath, and the spaces in between.” We feel our lungs fill and release. As we focus on the smallest details of our respiration, other thoughts—of work, of family, of money—begin to recede, leaving us alone with the rise and fall of our chests. For thousands of years, these techniques have helped put practitioners into meditative states. Today is no different. There’s a palpable silence in the room. For a moment, all is still. I take another breath.
+CHADE-MENG TAN IS PERCHED ON A CHAIR, his lanky body folded into a half-lotus position. “Close your eyes,” he says. His voice is a hypnotic baritone, slow and rhythmic, seductive and gentle. “Allow your attention to rest on your breath: The in-breath, the out-breath, and the spaces in between.” 
+
+We feel our lungs fill and release. As we focus on the smallest details of our respiration, other thoughts—of work, of family, of money—begin to recede, leaving us alone with the rise and fall of our chests. For thousands of years, these techniques have helped put practitioners into meditative states. Today is no different. There’s a palpable silence in the room. For a moment, all is still. I take another breath.
 
 The quiet is broken a few minutes later, when Meng, as he is known, declares the exercise over. We blink, smile at one another, and look around our makeshift zendo—a long, fluorescent-lit presentation room on Google’s corporate campus in Silicon Valley. Meng and most of his pupils are Google employees, and this meditation class is part of an internal course called Search Inside Yourself. It’s designed to teach people to manage their emotions, ideally making them better workers in the process. “Calm the mind,” Meng says, getting us ready for the next exercise: a meditation on failure and success.
 
