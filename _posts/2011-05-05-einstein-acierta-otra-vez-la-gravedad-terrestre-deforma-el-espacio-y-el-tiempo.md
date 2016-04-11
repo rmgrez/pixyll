@@ -30,4 +30,4 @@ La NASA empezó a desarrollar el proyecto en otoño de 1963, y sus fondos inicia
 
 Finalmente, todo estuvo listo en 2004, año en que, por fin, el GP-B fue puesto en órbita. El ingenio empezó entonces a recolectar datos, tarea que no terminó hasta diciembre de 2010. La medida exacta de los efectos predichos por Einstein tendrá un gran impacto en numerosos campos de la Física.
 
-Y servirá también para desarrollar nuevas tecnologías y aplicaciones basadas en GPS lo suficientemente precisas, por ejemplo, para permitir que los aviones aterricen sin ayuda alguna. [vía <a href="http://www.abc.es/20110505/ciencia/abci-einstein-acierta-otra-gravedad-201105050942.html" target="_blank"></a>]
+Y servirá también para desarrollar nuevas tecnologías y aplicaciones basadas en GPS lo suficientemente precisas, por ejemplo, para permitir que los aviones aterricen sin ayuda alguna. [vía <a href="http://www.abc.es/20110505/ciencia/abci-einstein-acierta-otra-gravedad-201105050942.html" target="_blank">abc</a>]

@@ -24,4 +24,4 @@ Aquí os dejamos con una lista de páginas donde es posible encontrar este tipo 
 
 Como ves, opciones no faltan, por lo que nada de cortar música protegida por derechos de autor, no es necesario en absoluto.
 
-[vía <a href="http://wwwhatsnew.com/2016/01/25/sitios-con-musica-gratis-para-usar-en-nuestros-proyectos/">wwwn</a>]
+[vía <a href="http://wwwhatsnew.com/2016/01/25/sitios-con-musica-gratis-para-usar-en-nuestros-proyectos/">wn</a>]

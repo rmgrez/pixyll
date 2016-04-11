@@ -59,7 +59,7 @@ Pista: El hombre sabía que iba a morir conforme se acercaba al lugar.
 "Un hombre recibió un paquete por correo. Lo abrió cuidadosamente y encontró el brazo de un hombre dentro. Lo examinó, lo envolvió nuevamente y lo mandó a otro hombre. Este segundo hombre examinó el paquete que contenía el brazo muy cuidadosamente también, y luego, lo llevó hasta un bosque en donde lo enterró. ¿Por qué lo hicieron?"
 
 
-### SOLUCIONES
+## SOLUCIONES
 
 <strong>1. El hombre del ascensor</strong>: Era una persona que padecía enanismo y no llegaba a darle al botón del décimo piso.
 

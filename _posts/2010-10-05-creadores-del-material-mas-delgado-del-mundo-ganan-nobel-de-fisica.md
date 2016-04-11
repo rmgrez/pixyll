@@ -8,7 +8,7 @@ categories: ciencia
 
 Andrey Geim y Konstantin Novoselov crearon el grafeno, que en el futuro podría reemplazar el silicio de los chips que se usa hoy.
 
-Los científicos rusos Andre Geim y Konstantin Novoselov fueron galardonados con el premio Nobel de física por la invención del <strong>grafeno</strong>, un material que podría reemplazar al silicio y revolucionar la fabricación de chips y transistores en el futuro, además de muchos otros ámbitos. [<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2010/announcement.html" target="_blank">Link</a>]
+Los científicos rusos Andre Geim y Konstantin Novoselov fueron galardonados con el premio Nobel de física por la invención del <strong>grafeno</strong>, un material que podría reemplazar al silicio y revolucionar la fabricación de chips y transistores en el futuro, además de muchos otros ámbitos. [<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2010/announcement.html" target="_blank">link</a>]
 
 El grafeno es una capa de átomos de carbono unidos densamente en una red hexagonal, que es muy, muy plano (apenas 1 átomo de grosor).
 
