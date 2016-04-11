@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      Mindfulness, la meditación contra el estrés salta al mundo empresarial
+date:       2014-06-16 09:31:19
+summary:    
+categories: ciencia
+---
+
+Tras los beneficios obtenidos en el campo médico y educacional, la práctica de esta técnica milenaria de tradición budista se extiende al mundo de los negocios.
+
+"Tratando de aprender meditación trascendental. Todo el mundo la recomienda, no es fácil empezar, pero dicen que ¡lo mejora todo!". El magnate de la prensa Rupert Murdoch levantaba el pasado 21 de abril el revuelo en internet con este disruptivo tweet. Pero no se trata de un caso aislado. En Silicon Valley, los «empleados-correligionarios» de Google, participan desde hace tiempo en talleres de «Mindfulness» -que hoy se imparten en su red mundial-, diseñados para reducir el estrés, dar más espacio a la creatividad, aumentar la concentración y, con todo ello, la productividad del gigante informático. La meditación ha entrado con fuerza también en el mundo de los negocios. Impulsada o no por la crisis, el tiempo dirá si se trata de una moda pasajera.
+
+Para Fernando Tobías, profesor de Habilidades Personales en la <a href="http://www.icai.upcomillas.es/es/" target="_blank">Escuela Técnica Superior de Ingeniería (ICAI)</a> y miembro del equipo de investigación en «Mindfulness» del Laboratorio de Psicología, ambos de la Universidad Pontificia Comillas, «Mindfulness es la traducción del término sati del idioma Pali. En castellano la fórmula más usada es la de “atención plena”». Jon Kabat-Zinn, uno de sus principales impulsores en Occidente a través de sus investigaciones en el <a href="http://web.mit.edu/" target="_blank">Instituto Tecnológico de Massachusetts (MIT)</a>, lo definió como «el estado de conciencia que emerge cuando prestas atención intencionadamente al momento presente con aceptación». En España, el doctor Vicente Simón, coordinador del curso «Aprendiendo a entender el Mindfulness» de la Universidad Internacional Valenciana (VIU), lo explica como una forma de «calmar la mente para ver con claridad».
+
+Como ocurre con otros vocablos, «no admite una traducción directa del inglés -señala el profesor de la Facultad de Ciencias Sociales de la Universidad Europea, José Luis Martínez Rubio-. Es un concepto que proviene de la tradición oriental próxima al budismo, relacionado con la aceptación de uno mismo y de las circunstancias que lo rodean. En el “Mindfulness”, las personas no realizan juicios de valor sobre lo que están sintiendo o percibiendo, ni pretenden controlar los mismos».
+
+### Eclosión occidental
+
+¿Pero vivimos el año de su eclosión occidental? ¿A qué se debe el renacimiento de una técnica milenaria que ya se emplea desde hace años en prestigiosas universidades y escuelas de negocio?
+
+«En estos momentos es sin duda una moda, con sus consecuencias positivas y negativas», sopesa Tobías. A lo que Gustavo Díex, codirector del Máster de Mindfulness del <i>Centro Superior de Estudios de Gestión de la UCM</i> añade: «Es una capacidad básica del ser humano, por tanto más vale que no sea una moda. De hecho, su práctica tiene mas de 2.500 años de antigüedad. En las escuelas de negocio se sabe qué es importante y cómo conseguirlo con procesos cada vez mas refinados y adaptados a la cambiante realidad socio-económica. Pero siempre ha quedado un punto ciego, el quién. Es importante advertir que el estado interno de la persona es clave y determinante del resultado de los procesos cognitivos, emocionales y comportamentales. Desde dónde se lidera, desde dónde se toman decisiones, cómo descargar los antiguos modelos y paradigmas, que han sido efectivos durante años, para dar a luz nuevas formas de abordar los retos del presente son temas fundamentales que se estudian y experimentan en primera persona en las Intervenciones Basadas en Mindfulness (MBI por ser siglas del inglés)», expone.
+
+Según el profesor Martínez, «en esta década está recuperando su presencia social debido a las exigencias que el ritmo de vida impone. Las personas se ven sometidas al estrés derivado de la realización de multitud de actividades que se ejecutan simultáneamente-cambios laborales, presiones sociales, familiares, etcétera- y que requieren una respuesta rápida y eficaz». «Propone -apunta Tobías- otro modo de vivir, como un antídoto en nuestra cultura de “infoxicación” (exceso de información), multitarea e interrupciones».
+
+Evidencia científica
+Como en otras investigaciones, la publicación de evidencias neurocientíficas sobre los beneficios de su práctica ha sido el punto de partida de su extensión popular. «Constatar que entrenar la atención modifica las estructuras y funciones del cerebro, despierta la curiosidad y le dota de rigor», continúa este experto. Y apunta: «Aunque todavía es un movimiento incipiente, cada día más directivos y empresas españolas se interesan por lo que puede aportar. No son pocos los ejecutivos que saben cómo llevar la atención a la respiración para entrar en un estado de mayor calma y lucidez. ¿A quién no le interesa saber hacerlo?».
+
+Es muy difícil demostrar el impacto directo de este tipo de prácticas en la cuenta de resultados por la complejidad de las variables en juego. «Aunque sus beneficios inciden tanto en la calidad de vida de la propia persona como en su aportación a la empresas donde desarrolla su actividad laboral. Si gracias al “Mindfulness” se reduce el estrés de los trabajadores, se disminuirá también el absentismo y el número de accidentes laborales, los conflictos en el trabajo, la fuga de talento y profesionales más cualificados y, por tanto, aumentará la productividad, defiende Rubio.
+
+«Otra cosa es el uso que se le dé a este herramienta: para manipular y explotar al personal o para ayudarle a ser más libre... Pero aquí ya entra en juego la ética», concluye el profesor Tobías. [vía <a href="http://www.abc.es/economia/20140614/abci-mindfulness-meditacion-empresas-estres-201406121916.html" target="_blank">abc</a>]
