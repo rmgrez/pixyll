@@ -58,7 +58,7 @@ El contenido de los discos fue definido por Carl Sagan junto con la directora cr
 Rafael Bachiller es director del Observatorio Astronómico Nacional (IGN) y académico de la Real Academia de Doctores de España. Twitter: @RafaelBachiller
 
 
-#### Un punto azul pálido
+## Un punto azul pálido
 
 <blockquote>Desde este lejano punto de vista, la Tierra puede no parecer muy interesante. Pero para nosotros es diferente. Considera de nuevo ese punto. Eso es aquí. Eso es nuestra casa. Eso somos nosotros. </blockquote>
 

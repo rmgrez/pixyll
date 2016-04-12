@@ -13,7 +13,7 @@ A pesar de ser uno de los métodos criptográficos más simples, el “cifrado d
 
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png)
 
-<center>El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares.</center>
+<p align="center">El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares.</p>
 
 <p>Es innegable que el mundo moderno tiene muchos más secretos para resguardar de las miradas indiscretas que el de hace 2000 años. Esta situación, en la que a menudo una empresa posee procesos o la “receta” para preparar compuestos que valen miles de millones de euros, ha llevado al desarrollo de mecanismos automatizados que permiten a cualquiera -incluidos gobiernos, empresas y particulares- mantener a salvo sus documentos importantes, aún cuando el potencial enemigo también posea formidables herramientas para intentar violar las protecciones que se pongan en práctica.
 Cayo Julio César, el líder militar y político que gobernó la República Romana poco antes de la Era Cristiana, no tenía a su disposición nada más avanzado que un lápiz y papel (o pluma y papiro), pero aún así fue capaz de poner a punto un sistema de cifrado que, para el estado del desarrollo tecnológico de la época, fue completamente exitoso: el cifrado de César.</p>
