@@ -10,7 +10,7 @@ A pesar de ser uno de los métodos criptográficos más simples -hoy lo descubri
 
 A pesar de ser uno de los métodos criptográficos más simples, el “cifrado de César” permitió a Julio César proteger sus mensajes importantes de las miradas no autorizadas. <strong>Consiste en substituir cada letra del mensaje por otra que se encuentre un número fijo de posiciones más adelante en el alfabeto</strong>, y aunque hoy puede ser “descifrado” hasta por un niño, hace 2000 años -en un mundo en el que pocas personas sabían leer y escribir- este mecanismo era considerado lo suficientemente seguro como para confiar en el la seguridad de un estado.
 
-{:refdef: style="float: center;"}
+{:refdef: style="display: block;"}
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png)
 
 
