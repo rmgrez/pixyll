@@ -11,10 +11,8 @@ A pesar de ser uno de los métodos criptográficos más simples -hoy lo descubri
 A pesar de ser uno de los métodos criptográficos más simples, el “cifrado de César” permitió a Julio César proteger sus mensajes importantes de las miradas no autorizadas. <strong>Consiste en substituir cada letra del mensaje por otra que se encuentre un número fijo de posiciones más adelante en el alfabeto</strong>, y aunque hoy puede ser “descifrado” hasta por un niño, hace 2000 años -en un mundo en el que pocas personas sabían leer y escribir- este mecanismo era considerado lo suficientemente seguro como para confiar en el la seguridad de un estado.
 
 
-{:.center}
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png)
 
-{:.center}
 El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares.
 
 
@@ -34,7 +32,3 @@ Obviamente, su efectividad se basaba en la incapacidad de la mayoría de los con
 En la actualidad no se emplea ningún sistema semejante, salvo en juegos o por los niños. Pero a pesar de su sencillez, el cifrado del César suele formar parte de otros sistemas más complejos (como el cifrado Vigenère) o se lo emplea en foros de Internet para ocultar de miradas casuales el final de un chiste, la solución a un acertijo o algún texto ofensivo. En este contexto, el algoritmo más utilizado es el denominado ROT13, que no es otra cosa que el cifrado de César con un desplazamiento de 13 lugares.
 
 Alguna vez se ha dicho que ROT13 es “el equivalente moderno del sistemas empleados en las revistas que imprimían boca abajo las respuestas de los pasatiempos”. El método ideado por César puede mejorarse de varias maneras. Una de las más habituales, popularizada alrededor del año 1500, consiste en desplazar un número diferente de posiciones cada letra, dando lugar al denominado “cifrado Vigenère”. El valor de cada desplazamiento se define usando una palabra clave repetitiva. Si la palabra clave fuera escogida al azar y tan larga como el mensaje el sistema resultante sería, en teoría, indescifrable. ¿Te animas a inventar tu propio sistema de cifrado?. [vía <a href="http://www.abc.es/20100705/ciencia/cifrado-cesar-201007051841.html" target="_blank">abc</a>]
-
-.center {
-	text-align: center;
-}
