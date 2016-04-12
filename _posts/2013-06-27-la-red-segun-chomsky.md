@@ -37,7 +37,7 @@ Noam Chomsky, uno de los intelectuales activistas más respetados e influyentes 
 <p><strong>Pese a las críticas que usted plantea, la imagen general es de internet como una herramienta útil y valorada.</strong></p>
 <p>Tienes razón, así es como internet se marketea a sí misma. Y hasta cierto nivel es cierto; puedo contactar amigos auténticos en diferentes partes del mundo, en India, en el Medio Oriente, Chile, en cualquier lugar. Y puedo interactuar con ellos de una forma que sería muy difícil por correo. Pero, por otro lado, internet también tiene el efecto opuesto. Es como cualquier tecnología: es básicamente neutra, puedes usarla en formas constructivas o dañinas. Las formas constructivas son reales, pero muy pocas.</p>
 
-<h3>Educados y Maleducados</h3>
+## Educados y Maleducados
 
 <p>Chomsky es un pensador político y tiene la convicción de que el gobierno, particularmente el suyo en Estados Unidos, fue concebido para proteger un orden que favorece a los más ricos. En esa lógica, el principal enemigo de cualquier gobierno son sus propios ciudadanos, que podrían querer cambiar el estado de las cosas, y la tecnología es un recurso más -y uno muy poderoso- en la batalla por el control social. Uno puede pensar que Chomsky exagera, pero no tanto después de la revelación del contratista norteamericano de la Agencia de Seguridad Nacional Edward Snowden, quien denunció que el gobierno norteamericano posee un programa de vigilancia masivo sobre las llamadas telefónicas y el tráfico en internet (Prism).</p>
 

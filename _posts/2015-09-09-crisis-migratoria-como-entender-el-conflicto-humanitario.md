@@ -42,7 +42,8 @@ En el caso de Serbia y Hungría se presentan las principales alzas que llegan a 
 
 Para escapar de la guerra y la violencia se han generado dos rutas, las que no son nuevas pero que ahora se han vuelto más populares ante la cantidad de personas que las usan.
 
-### Cristián Doña explica las principales rutas:
+## Cristián Doña explica las principales rutas:
+
 
 -<strong>Desde Siria, Afganistán, Eritrea, e Irak</strong> por Turquía entrando a Europa por Grecia y subiendo por Europa Suroriental (Macedonia, Hungría, Bulgaria, etc.) a Alemania e Inglaterra. Esto era por tierra y ahora es por mar. La isla de Lesbos en Grecia pero más cerca de Turquía que de Grecia se ha convertida, entre otras, en un punto de entrada importante.
 
@@ -92,4 +93,4 @@ El Dr. Cristián Doña plantea que existen varias propuestas que suenan fuerte e
 
 -<strong>Separar la ficticia igualdad de migración y/o refugio con seguridad interior</strong>, esto iguala a migrantes y refugiados con posibles terroristas.
 
--<strong>Dejar de igualar a traficantes de migrantes y refugiados con los migrantes y refugiados en sí</strong>. Los primeros son delincuentes, los otros no. [vía <a href="http://www.24horas.cl/internacional/crisis-migratoria-como-entender-el-conflicto-humanitario-1777421" target="">24h</a>]
+-<strong>Dejar de igualar a traficantes de migrantes y refugiados con los migrantes y refugiados en sí</strong>. Los primeros son delincuentes, los otros no. [vía <a href="http://www.24horas.cl/internacional/crisis-migratoria-como-entender-el-conflicto-humanitario-1777421" target="_blank">24h</a>]

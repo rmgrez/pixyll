@@ -22,7 +22,7 @@ El nuevo trabajo se centra en los datos tomados por CRISM, un espectrómetro de 
 
 Los resultados muestran la presencia de sales hidratadas. Las sales permiten que el agua permanezca líquida a temperaturas muy bajas, de hasta 70 grados bajo cero. En abril, otro estudio liderado por investigadores españoles ya había señalado que en el cráter Gale se puede formar agua líquida gracias a un tipo de sales conocidas como percloratos. Siguiendo la misma línea, los responsables del nuevo estudio explican que la presencia de percloratos y cloratos probablemente implica que se forma agua líquida y que esta arrastra los minerales corriente abajo. El agua se formaría en las estaciones más cálidas y estaría en forma de salmueras, la misma mezcla de agua y sales que proponía en equipo del Curiosity.
 
-En busca de vida
+## En busca de vida
 
 Estos datos “fortalecen la hipótesis” de que en algunas pendientes de terreno donde se dan temperaturas altas se “está produciendo agua líquida en el Marte contemporáneo”, señalan los autores del nuevo trabajo. El estudio, cuyo primer firmante es Lujendra Ojha, del Instituto Tecnológico de Georgia (EE UU) y en el que han participado investigadores de la NASA, menciona que en el desierto de Atacama (Chile), un análogo de Marte en la Tierra, la presencia de sales permiten la existencia de comunidades microbianas. Advierten, eso sí, de que en los terrenos analizados de Marte la actividad de las soluciones salinas puede ser demasiado débil como para sustentar vida.
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ¿De qué color es el vestido? The Dress
+title:      ¿De qué color es el vestido?
 date:       2015-02-27 10:02:49
 summary:    
 categories: ciencia
