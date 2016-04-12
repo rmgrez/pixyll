@@ -24,8 +24,6 @@ Hay muchos tópicos sobre el espacio exterior, los planetas y la física relacio
 	<li><strong>En el espacio se transmiten los sonidos.</strong> Va a ser que no.</li>
 	<li><strong>Es difícil atravesar un cinturón de asteroides con una nave espacial.</strong> En realidad es muy fácil porque los asteroides son muy pequeños y están increíblemente lejos unos de otros. Así que no hace falta ser un gran piloto para lograrlo.</li>
 	<li><strong>Se puede ver la Gran Muralla desde el espacio.</strong> Definitivamente tampoco. De hecho, es más fácil –depende de la lejanía– ver los mares de plástico de Almería.</li>
-	<li><strong>La NASA acapara el 25 por ciento del presupuesto anual estadounidense.</strong> ¡Qué más quisieran! En realidad tan solo tienen asignado un mísero 0,5 por ciento.</li>
+	<li><strong>La NASA acapara el 25 por ciento del presupuesto anual estadounidense.</strong> ¡Qué más quisieran! En realidad tan solo tienen asignado un mísero 0,5 por ciento. [vía <a href="http://www.microsiervos.com/archivo/ciencia/10-mitos-sobre-el-espacio.html" target="_blank">ms</a>]
+</li>
 </ul>
-
-[vía <a href="http://www.microsiervos.com/archivo/ciencia/10-mitos-sobre-el-espacio.html" target="_blank">ms</a>]
-

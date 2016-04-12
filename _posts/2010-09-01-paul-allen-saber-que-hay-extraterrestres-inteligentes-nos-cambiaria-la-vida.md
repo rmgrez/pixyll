@@ -13,6 +13,7 @@ En 1983 Allen tuvo que abandonar el gigante del <i>software</i> tras serle diagn
 Su mecenazgo científico es apasionante. En 2001 impulsó con 11,5 millones de dólares el programa SETI para la búsqueda de señales de radio provenientes de una inteligencia extraterrestre. Movido por otra de sus pasiones, el espacio, invirtió 30 millones de dólares en <i>SpaceShipOne</i>, que ganó el premio X Price por ser la primera nave espacial tripulada de capital privado. En 2003, dedicó 100 millones de dólares a la creación del <i>Allen Institute for Brain Sciences</i> -Instituto Allen para las Ciencias del Cerebro-, con la ambiciosa meta de desentrañar los genes que gobiernan el cerebro de un mamífero. Los científicos ya han obtenido un mapa que señala la función de 20.000 genes del cerebro de un ratón, y ahora van a por el premio gordo: el mapa del neocórtex humano. 
 
 <strong>-¿Alguna vez se ha imaginado un mundo sin Microsoft?</strong> 
+
 -¡Guau, qué pregunta! Supongo que la industria estaría muy fragmentada. Han surgido muchos productos desde entonces, como iPod, Google, YouTube, eBay y Amazon. Si no existiese esta última, otros venderían libros on line, ¿pero con el mismo impacto? ¿Y si hubiese cinco empresas de subastas, en vez de eBay? Habría mayor variedad de cosas para escoger, pero con una empresa grande hay más oportunidades de mejorar. 
 
 <strong>-¿Su experiencia con Microsoft tiene que ver con el tipo de proyectos científicos que respalda?</strong>
@@ -23,7 +24,7 @@ Su mecenazgo científico es apasionante. En 2001 impulsó con 11,5 millones de d
 
 -Sí. Si te implicas con los ordenadores, acabas fascinado por la idea de la inteligencia. El cerebro humano trabaja de manera completamente diferente a un ordenador, hace algunas cosas mucho mejor y esto seguirá siendo así en los próximos 100 ó 200 años. ¿Pero por qué? Junté a un montón de neurocientíficos y les pregunté qué podía hacer yo para ayudar en el campo de las neurociencias. Su respuesta fue: una base de datos genéticos del cerebro del ratón. 
 
-<<strong>-El Allen Brain Atlas -Atlas Allen del Cerebro- es un proyecto de archivo masivo de datos. ¿Es una nueva tendencia en la investigación? </strong>
+<strong>-El Allen Brain Atlas -Atlas Allen del Cerebro- es un proyecto de archivo masivo de datos. ¿Es una nueva tendencia en la investigación? </strong>
 
 -Es un tipo de ciencia a escala industrial. Ya estamos presenciando otros esfuerzos similares; creo que hay un intento de Harvard en marcha para hacer una base de datos de cáncer. Craig Venter -el biólogo que secuenció el genoma humano- lidera un plan en el que recoge agua de mar para catalogar la vida del océano. Pero sólo hay unas docenas de proyectos de ese tipo. En unas décadas puede que esta cifra resulte ingenua. 
 
@@ -56,7 +57,7 @@ Su mecenazgo científico es apasionante. En 2001 impulsó con 11,5 millones de d
 -Muchos argumentan a favor de estos proyectos, que hay que tener sueños ambiciosos. Siempre me fascinan los retos técnicos, ¿pero no podemos conseguir los mismos datos con un pequeño vehículo que corra por Marte con una cámara? Los seres humanos somos frágiles, y desde que llevasen a alguien a Marte hasta que lo trajeran de vuelta, el astronauta estaría bajo las radiaciones del Sol y de la galaxia. Hay que pensar en eso. Como especie, somos descubridores y aventureros, y el espacio y el océano profundo son las últimas fronteras. Pero no confío en que acabemos comprando apartamentos en la playa marciana. 
 
 
-### Las pasiones científicas de un multimillonario 
+## Las pasiones científicas de un multimillonario 
 
 La disciplina que consiga atraer el interés de Paul Allen puede considerarse tocada por una varita de la fortuna. Dos de ellas son la vida extraterrestre y el cerebro humano. El Allen Telescope Array -abajo, a la izquierda- empezará en 2007 a barrer el cielo rastreando alienígenas. En 2006, el <i>Instituto Allen</i> para las Ciencias del Cerebro publicó el mapa genético del cerebro de ratón -derecha-. El análisis, con 85 millones de imágenes, ayudará a comprender cómo operan las distintas regiones cerebrales. 
 
@@ -84,7 +85,7 @@ La disciplina que consiga atraer el interés de Paul Allen puede considerarse to
 
 -Siempre estamos buscando puntos en común. Al fin y al cabo, hemos tenido mucho éxito juntos. Hace poco hablamos de hacer algo en las fronteras de la energía. 
 
-### Pasándolo bien
+## Pasándolo bien
 
 Desde que dejó <i>Microsoft</i> en 1982, Paul Allen no ha parado. Y da la sensación de haber aprovechado su vida y su enorme fortuna para disfrutar. De estudiante, quedó hipnotizado por <i>2001: una odisea en el espacio</i> y <i>El mundo del silencio</i> de Jacques Cousteau. Treinta años después apostaba por proyectos científicos que parecen sacados de esas películas. Pero además, fundó empresas de <i>software</i>, televisión por cable e industrias web; compró los equipos <i>Portland Trail Blazers</i> -de baloncesto- y <i>Seattle SeaHawks</i> -de fútbol americano-; se hizo con un yate, el <i>Octopus</i>, y creó su propio museo del rock. Habitual de la lista <i>Forbes</i> de los más ricos del mundo, Allen es, indudablemente, un tipo con suerte, pero sobre todo, con ingenio e inquietudes.
 
