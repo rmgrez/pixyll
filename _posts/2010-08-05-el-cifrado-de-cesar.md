@@ -13,7 +13,7 @@ A pesar de ser uno de los métodos criptográficos más simples, el “cifrado d
 
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png)
 
-El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares.
+<center>El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares.</center>
 
 
 
