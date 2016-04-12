@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Paul Allen Saber que hay extraterrestres inteligentes nos cambiaría la vida
+title:      Paul Allen, “Saber que hay extraterrestres inteligentes nos cambiaría la vida”
 date:       2010-09-01 11:00:00
 summary:    
 categories: ciencia
