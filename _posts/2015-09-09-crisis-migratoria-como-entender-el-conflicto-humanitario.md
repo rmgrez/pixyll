@@ -45,11 +45,11 @@ Para escapar de la guerra y la violencia se han generado dos rutas, las que no s
 ## Cristián Doña explica las principales rutas:
 
 
--<strong>Desde Siria, Afganistán, Eritrea, e Irak</strong> por Turquía entrando a Europa por Grecia y subiendo por Europa Suroriental (Macedonia, Hungría, Bulgaria, etc.) a Alemania e Inglaterra. Esto era por tierra y ahora es por mar. La isla de Lesbos en Grecia pero más cerca de Turquía que de Grecia se ha convertida, entre otras, en un punto de entrada importante.
+-Desde Siria, Afganistán, Eritrea, e Irak por Turquía entrando a Europa por Grecia y subiendo por Europa Suroriental (Macedonia, Hungría, Bulgaria, etc.) a Alemania e Inglaterra. Esto era por tierra y ahora es por mar. La isla de Lesbos en Grecia pero más cerca de Turquía que de Grecia se ha convertida, entre otras, en un punto de entrada importante.
 
--<strong>Desde Libia, Mali, Chad</strong> y otros países en conflictos internos en África del norte, a través de Libia (miles de kilómetros de desierto) por el Mediterráneo hacia Italia. La isla de Lampedusa tiene probablemente el centro de detención más grande de Europa.
+-Desde Libia, Mali, Chad y otros países en conflictos internos en África del norte, a través de Libia (miles de kilómetros de desierto) por el Mediterráneo hacia Italia. La isla de Lampedusa tiene probablemente el centro de detención más grande de Europa.
 
--<strong>Desde Mauritania y la costa occidental de Africa</strong> hacia Ceuta y Melilla en el África Español y de ahí a España o hacia Canarias.
+-Desde Mauritania y la costa occidental de Africa hacia Ceuta y Melilla en el África Español y de ahí a España o hacia Canarias.
 
 Según <i>ACNUR</i>, 209.457 refugiados han llegado a las playas de Grecia y 111.197 a las de Italia.
 
@@ -79,18 +79,18 @@ Cada día son muchos los que han salido a manifestarse a favor de quienes buscan
 
 Hasta en redes sociales se ha manifestado el apoyo a los refugiados y se ha popularizado el hastag <i>#RefugessWelcome</i> o <i>#BienvenidosRefugiados</i>.
 
-## Existe alguna solución
+## ¿Existe alguna solución?
 
 Ante el actual escenario, lo más difícil es pensar en una solución a corto y largo plazo. Rodrigo Álvarez plantea: "Europa está hoy en una situación compleja y la solución, más allá de la obligación ética y moral de permitir el acceso de los que hoy llegan o quieren llegar s sus países como refugiados o migrantes,  no pasa por la inexistencia de las barreras de ingreso".
 
 El Dr. Cristián Doña plantea que existen varias propuestas que suenan fuerte entre los expertos europeos y consisten en:
 
--<strong>Eliminar o cambiar la forma en que se establecen las responsabilidades de atención al refugiado</strong>. Es decir actualmente de acuerdo al Sistema Dublin, las solicitudes de asilo se deben hacer en el primer país de la Comunidad que toca el refugiado, es decir en este caso principalmente Grecia, Italia, España y Malta.
+-Eliminar o cambiar la forma en que se establecen las responsabilidades de atención al refugiado. Es decir actualmente de acuerdo al Sistema Dublin, las solicitudes de asilo se deben hacer en el primer país de la Comunidad que toca el refugiado, es decir en este caso principalmente Grecia, Italia, España y Malta.
 
--<strong>Incrementar los fondos que la comunidad otorga a estos países para la atención de refugiados</strong>, sobre todo en el caso de Grecia que además está en la gran crisis.
+-Incrementar los fondos que la comunidad otorga a estos países para la atención de refugiados, sobre todo en el caso de Grecia que además está en la gran crisis.
 
--<strong>Relanzar el programa “<i>MareNostrum</i>”</strong> que es de búsqueda y salvataje de refugiados en el Mediterráneo y que fue cancelado a principios de año.
+-Relanzar el programa “<i>MareNostrum</i>” que es de búsqueda y salvataje de refugiados en el Mediterráneo y que fue cancelado a principios de año.
 
--<strong>Separar la ficticia igualdad de migración y/o refugio con seguridad interior</strong>, esto iguala a migrantes y refugiados con posibles terroristas.
+-Separar la ficticia igualdad de migración y/o refugio con seguridad interior, esto iguala a migrantes y refugiados con posibles terroristas.
 
--<strong>Dejar de igualar a traficantes de migrantes y refugiados con los migrantes y refugiados en sí</strong>. Los primeros son delincuentes, los otros no. [vía <a href="http://www.24horas.cl/internacional/crisis-migratoria-como-entender-el-conflicto-humanitario-1777421" target="_blank">24h</a>]
+-Dejar de igualar a traficantes de migrantes y refugiados con los migrantes y refugiados en sí. Los primeros son delincuentes, los otros no. [vía <a href="http://www.24horas.cl/internacional/crisis-migratoria-como-entender-el-conflicto-humanitario-1777421" target="_blank">24h</a>]

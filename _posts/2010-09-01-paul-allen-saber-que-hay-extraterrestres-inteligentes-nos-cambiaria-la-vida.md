@@ -6,7 +6,7 @@ summary:
 categories: ciencia
 ---
 
-En 1975, Paul Allen, este hombre risueño de aspecto satisfecho, convenció a su amigo de la adolescencia de que hiciese una locura: abandonar la Universidad de Harvard para fundar juntos una pequeña empresa. Y no les fue mal. El colega se llamaba Bill Gates, y la compañía, <i>Microsoft</i>. 
+En 1975, Paul Allen, hombre risueño de aspecto satisfecho, convenció a su amigo de la adolescencia de que hiciese una locura: abandonar la Universidad de Harvard para fundar juntos una pequeña empresa. Y no les fue mal. El colega se llamaba Bill Gates, y la compañía, <i>Microsoft</i>. 
 
 En 1983 Allen tuvo que abandonar el gigante del <i>software</i> tras serle diagnosticado un linfoma de Hodgkin, que superó meses después tras un transplante de médula. Desde entonces, se ha dedicado a invertir la fortuna que reunió con <i>Microsoft</i> en lo que más le ha apetecido. Además de prestar una atención especial a sus proyectos filantrópicos, a través de la <i>Paul G. Allen Family Foundation</i>, ha continuado en los negocios y se ha convertido en un patrón de las ciencias que rivaliza en influencia con las agencias del Gobierno. Todo esto, sin dejar de lado sus grandes hobbies: la música y el deporte. 
 
@@ -99,6 +99,6 @@ Desde que dejó <i>Microsoft</i> en 1982, Paul Allen no ha parado. Y da la sensa
 
 <strong>-Ordenadores, deportes, barcos, espacio, ciencia y rock and roll. ¿Le queda algún deseo infantil pendiente de realizar?</strong>
 
--Con 8 años me fascinaban los coches deportivos. Ahora no me gustan tanto como otras cosas, así que no tendré un supermodelo con llamas a los lados. En la vida, tienes que elegir tus debilidades. [vía <a href="http://www.muyinteresante.es/ciencia/articulo/paul-allen" target="_blank">muyinteresante</a>]
+-Con 8 años me fascinaban los coches deportivos. Ahora no me gustan tanto como otras cosas, así que no tendré un supermodelo con llamas a los lados. En la vida, tienes que elegir tus debilidades. [vía <a href="http://www.muyinteresante.es/ciencia/articulo/paul-allen" target="_blank">mi</a>]
 
 <i>Evan Ratliff</i>
