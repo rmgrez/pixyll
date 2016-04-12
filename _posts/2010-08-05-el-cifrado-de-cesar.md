@@ -11,6 +11,7 @@ A pesar de ser uno de los métodos criptográficos más simples -hoy lo descubri
 A pesar de ser uno de los métodos criptográficos más simples, el “cifrado de César” permitió a Julio César proteger sus mensajes importantes de las miradas no autorizadas. <strong>Consiste en substituir cada letra del mensaje por otra que se encuentre un número fijo de posiciones más adelante en el alfabeto</strong>, y aunque hoy puede ser “descifrado” hasta por un niño, hace 2000 años -en un mundo en el que pocas personas sabían leer y escribir- este mecanismo era considerado lo suficientemente seguro como para confiar en el la seguridad de un estado.
 
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/475px-ROT13_table_with_example.svg.png)
+
 El ROT 13 es el Cifrado de César con un desplazamiento de trece lugares
 
 Es innegable que el mundo moderno tiene muchos más secretos para resguardar de las miradas indiscretas que el de hace 2000 años. Esta situación, en la que a menudo una empresa posee procesos o la “receta” para preparar compuestos que valen miles de millones de euros, ha llevado al desarrollo de mecanismos automatizados que permiten a cualquiera -incluidos gobiernos, empresas y particulares- mantener a salvo sus documentos importantes, aún cuando el potencial enemigo también posea formidables herramientas para intentar violar las protecciones que se pongan en práctica.
