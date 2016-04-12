@@ -61,6 +61,7 @@ Pista: El hombre sabía que iba a morir conforme se acercaba al lugar.
 
 ## SOLUCIONES
 
+
 <strong>1. El hombre del ascensor</strong>: Era una persona que padecía enanismo y no llegaba a darle al botón del décimo piso.
 
 <strong>2. El hombre del bar</strong>: El camarero se da cuenta de que su cliente le pide agua porque tiene hipo y decide cortárselo con un buen susto.
@@ -79,6 +80,4 @@ Pista: El hombre sabía que iba a morir conforme se acercaba al lugar.
 
 <strong>9. Adán y Eva</strong>: Eran los únicos que no tenían ombligo.
 
-<strong>10. El brazo del servicio postal</strong>: Tres hombres naufragaron en una isla desierta. Sin nada que comer, acordaron amputarse cada uno el brazo izquierdo para comérselo. Los tres juraron que se cortarían el brazo izquierdo. Uno de los tres era médico y cortó el brazo a sus dos compañeros antes de ser rescatados. Tal como había jurado, el médico se amputó después su brazo y se lo envió a uno de sus colegas, que al verlo se lo reenvió al tercero, que lo enterró.
-
-[vía <a href="http://www.abc.es/ciencia/20140613/abci-diez-acertijos-pensamiento-lateral-201406121409_1.html" target="_blank">abc</a>]
+<strong>10. El brazo del servicio postal</strong>: Tres hombres naufragaron en una isla desierta. Sin nada que comer, acordaron amputarse cada uno el brazo izquierdo para comérselo. Los tres juraron que se cortarían el brazo izquierdo. Uno de los tres era médico y cortó el brazo a sus dos compañeros antes de ser rescatados. Tal como había jurado, el médico se amputó después su brazo y se lo envió a uno de sus colegas, que al verlo se lo reenvió al tercero, que lo enterró. [vía <a href="http://www.abc.es/ciencia/20140613/abci-diez-acertijos-pensamiento-lateral-201406121409_1.html" target="_blank">abc</a>]

@@ -30,4 +30,5 @@ También se puso muy de moda un supuesto 'truco' que permitía acceder a este ti
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//6K0J0qxAyGQ' frameborder='0' allowfullscreen></iframe></div>
 </center>
 
+
 Lo cierto, es que el lista de amigos que ofrece ese código <strong>no representa</strong> a los que han visitado tu perfil. [vía <a href="http://www.20minutos.es/noticia/1917999/0/como-saber-quien-ve-mi-perfil/facebook/mitos/" target="_blank">20min</a>]
