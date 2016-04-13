@@ -10,7 +10,7 @@ El vehículo con piloto automático y capacidad de frenar y maniobrar autónomam
 
 El consejero delegado del fabricante de automóviles eléctricos de lujo Tesla, Elon Musk, presentó hoy el nuevo vehículo de la compañía, denominado Model 3, que se quiere convertir en el primer auto eléctrico de consumo de masas del mundo. 
 
-Musk reveló el Model 3 en un evento celebrado en la localidad californiana de Palo Alto durante el que confirmó que la versión base del vehículo tendrá un precio de 35.000 dólares en Estados Unidos y que será el "mejor vehículo" del mercado que se podrá comprar por ese precio. 
+Musk reveló el Model 3 en un evento celebrado en la localidad californiana de Palo Alto durante el que confirmó que la versión base del vehículo tendrá un precio de 35.000 dólares en Estados Unidos y que será el "mejor vehículo" del mercado que se podrá comprar por ese precio.<br> 
 <br>
 ![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Candy_Red_Tesla_Model_3_trimmed_2.jpg/1280px-Candy_Red_Tesla_Model_3_trimmed_2.jpg)
 <br>

@@ -6,7 +6,7 @@ summary:
 categories: tecnologia
 ---
 
-La industria discográfica continuó su transición digital en 2015, con más del 70 % de sus ingresos procedentes de plataformas digitales y descargas, según informó hoy la Asociación de la Industria Discográfica (RIAA).
+La industria discográfica continuó su transición digital en 2015, con más del 70% de sus ingresos procedentes de plataformas digitales y descargas, según informó hoy la Asociación de la Industria Discográfica (RIAA).
 
 Los ingresos totales por derechos de autor aumentaron el año pasado un 0,9 % hasta alcanzar los 7.000 millones de dólares, de los cuales más de dos tercios procedieron de servicios de “streaming” y de descargas digitales.
 
