@@ -6,7 +6,7 @@ summary:
 categories: cultura
 ---
 
-La literatura universal ofrece grandes obras, pero hay algunas que se han convertido en clásicos. ¿Sabes cuáles son? Descúbrelos y aprovecha a descargarlos de forma legal y gratuita.
+La literatura universal ofrece grandes obras, pero hay algunas que se han convertido en clásicos. ¿Sabes cuáles son? Descúbrelos y aprovecha de descargarlos de forma legal y gratuita.
 
 Los libros son una gran fuente de conocimiento, además de proveer entretenimiento, reflexión y una oportunidad de conocernos a nosotros mismos. Pese a que a diario se publican miles de nuevas obras, hay historias que se han convertido en clásicos y que capturan la imaginación de lectores de todas las edades.
 
@@ -50,4 +50,4 @@ Los Cuentos completos de Chekhov reúne más de 600 historias, la mayoría no pu
 
 <strong>10. Middlemarch de George Eliot</strong>
 
-La 7ª novela de Eliot, el seudónimo de Mary Anne Evans, relata las historias de 3 parejas muy diferentes, todas ellas vinculadas a través de la ciudad de Middlemarch. Además, Evans ahonda en el contexto político, social e ideológico de la Inglaterra Victoriana. <a href="http://www.biblioteca.org.ar/libros/131374.pdf" target="_blank">Descarga la historia sin coste</a>. [vía <a href="" target="_blank">un</a>]
+La 7ª novela de Eliot, el seudónimo de Mary Anne Evans, relata las historias de 3 parejas muy diferentes, todas ellas vinculadas a través de la ciudad de Middlemarch. Además, Evans ahonda en el contexto político, social e ideológico de la Inglaterra Victoriana. <a href="http://www.biblioteca.org.ar/libros/131374.pdf" target="_blank">Descarga la historia sin coste</a>. [vía <a href="http://noticias.universia.es/cultura/noticia/2015/04/28/1124148/descarga-gratis-10-mejores-libros-historia.html" target="_blank">un</a>]
