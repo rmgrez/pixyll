@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      “El que no la golpee es infiel”, La historia de un linchamiento en Afganistán
+title:      “El que no la golpee es infiel”, la historia de un linchamiento en Afganistán
 date:       2016-04-22 12:05:03
 summary:    
 categories: sociedad
