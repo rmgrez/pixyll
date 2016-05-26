@@ -9,8 +9,7 @@ categories: environment
 On Sunday, May 8, Germany hit a new high in renewable energy generation. Thanks to a sunny and windy day, at one point around 1pm the country’s solar, wind, hydro and biomass plants were supplying about 55 GW of the 63 GW being consumed, or 87%.
 Power prices actually went negative for several hours, meaning commercial customers were being paid to consume electricity.
 
-![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Middelgrunden_wind_farm_2009-07-01_edit_filtered2.jpg/800px-Middelgrunden_wind_farm_2009-07-01_edit_filtered2.jpg)
-<center>(Ilmari Karonen/WikiMedia)</center>
+![desk](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Middelgrunden_wind_farm_2009-07-01_edit_filtered2.jpg/1280px-Middelgrunden_wind_farm_2009-07-01_edit_filtered2.jpg)(Ilmari Karonen/WikiMedia)
 
 Last year the average renewable mix was 33%, reports <a href="https://www.agora-energiewende.de/de/ueber-uns/" target="_blank">Agora Energiewende</a>, a German clean energy think tank. New wind power coming online should push that even higher.
 
