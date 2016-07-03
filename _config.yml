@@ -84,7 +84,7 @@ text:
     minute_read:    'min de lectura'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Pronto...'
+    coming_soon: '...'
   contact:
     email:    'Tu email'
     content:  '¿Qué te gustaría decir?'
